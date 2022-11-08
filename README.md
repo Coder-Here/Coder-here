@@ -1,1 +1,1 @@
-![image](https://jp-ch.gq/viewcount.php)
+![](https://komarev.com/ghpvc/?username=Coder-Here)
